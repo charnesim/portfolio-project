@@ -4,6 +4,10 @@ body {
   font-family: "Rajdhani", sans-serif;
 }
 
+h2 {
+  font-size: 64px;
+}
+
 .hero {
   text-align: center;
   padding: 160px 20px;
@@ -17,4 +21,12 @@ body {
 .hero h1 {
   font-size: 80px;
   font-weight: bold;
+}
+
+.btn-style {
+  text-decoration: none;
+  border: 1px solid white;
+  border-radius: 4px;
+  padding: 15px 30px;
+  color: white;
 }
